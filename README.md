@@ -1,3 +1,1 @@
-- 👋 Hi, my name is Sean Quin
-- 🌱 I’m currently persuing a Bsc in computing science @ the university of Stirling
-- 👀 Feel free to browse through my projects (course work or personal) 
+
